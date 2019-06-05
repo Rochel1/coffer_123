@@ -1,1 +1,4 @@
 这是第一份文件
+知道暂存区是什么意思
+已读文件 git很强大
+Git is a distributed version control system.
